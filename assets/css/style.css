@@ -13,7 +13,7 @@ header {
 }
 
 #logo {
-    margin: 20px auto;
+    margin: 0px auto;
     height: 50%;
 }
 
@@ -167,9 +167,10 @@ footer p {
 }
 
 footer ion-icon {
-    font-size: 5em;
+    font-size: 1.5em;
+    margin: 0 5px;
     display: inline-block;
-    background-color: white;
+
 }
 
 #copy {
