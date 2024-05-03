@@ -1,0 +1,180 @@
+/* Your styles here */
+body {
+    font-family: "Open Sans", sans-serif;
+    line-height: 1.65;
+    max-width: 500px;
+    margin: auto;
+}
+
+header {
+    background-color: black;
+    height: 100px;
+}
+
+#logo {
+    margin: 1em 11em;
+    width: 150px;
+    height: 50%;
+}
+
+h1 {
+    color: #25a2c3;
+    font-size: 3em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    margin: auto;
+    padding: 1em;
+    line-height: 1;
+}
+
+h3 {
+    color: #25a2c3;
+    font-size: 1.5em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    margin: auto;
+    padding: 1em;
+    line-height: 1;
+}
+
+h2 {
+    font-size: 2.7em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    margin: auto;
+    padding: 2em auto;
+}
+
+.container {
+    margin: 0;
+    text-align: center;
+    background-image: url("../images/banner.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+
+.fs-article {
+    margin: 50px 50px;
+    padding: 20px;
+    line-height: 1.5;
+}
+
+.description { 
+
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.2em;
+    margin: auto;
+    padding: 0 6cap;
+}
+
+button {
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bold;
+    background-color: #f04c2f;
+    border-radius: 3px;
+    margin: 15px auto;
+    height: 40px;
+    width: 150px;
+    border: none;
+}
+
+#sec-cont {
+    margin: 70px auto;
+}
+.sec-section {
+    margin: 30px auto;
+}
+
+#banner {
+    border-radius: 50% 50% 50% 50% / 50% 50% 50% 50%;
+    width: 300px;
+    margin-top: 50px auto;
+}
+
+#bg-orange {
+    color: white;
+    background-color: #e22d0e;
+    height: 400px;
+    width: 500px;
+    text-align: center; 
+}
+
+#cit {
+    font-style: italic;
+    font-family: "Montserrat", sans-serif;
+    margin: auto;
+    padding-top: 30px;
+    font-size: 1.3em;
+    
+}
+
+#nome {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.6em;
+    padding-top: 30px;
+}
+
+#orange-cont {
+    padding-top: 80px;
+    margin: auto;
+}
+
+.foto1{
+    max-width: 458px;
+
+}
+
+.border-sch {
+    border: 1px solid #dee1e3;
+    margin: 40px 20px;
+    border-radius: 5px;
+}
+
+.sch {
+    padding: 20px;
+}
+
+.sch p {
+   padding: 20px;
+}
+
+footer {
+    background-color: #25a2c3;
+    height: 400px;
+    color: white;
+    margin-top: 100px;
+}
+
+footer h1 {
+    color: white;
+}
+
+footer a {
+    color: #c8f7f0;
+    font-size: 1.3em;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+}
+
+footer p {
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.3em;
+    color: white;
+    font-weight: 300;
+    
+}
+
+#line {
+
+}
+
+#copy {
+    border-top: 1px solid white;
+    color: white;
+    width: 240px;
+    margin: 30px auto;
+    padding: 30px;
+    font-size: 0.8em;
+}
