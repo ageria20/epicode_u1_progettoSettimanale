@@ -9,11 +9,11 @@ body {
 header {
     background-color: black;
     height: 100px;
+    text-align: center;
 }
 
 #logo {
-    margin: 1em 11em;
-    width: 150px;
+    margin: 20px auto;
     height: 50%;
 }
 
@@ -166,8 +166,10 @@ footer p {
     
 }
 
-#line {
-
+footer ion-icon {
+    font-size: 5em;
+    display: inline-block;
+    background-color: white;
 }
 
 #copy {
